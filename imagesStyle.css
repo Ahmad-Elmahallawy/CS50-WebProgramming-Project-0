@@ -36,7 +36,7 @@
 .search-bar{
     width: 100%;
     display: block;
-    height: 5vh;
+    height: 40px;
     margin: 0;
     border-radius: 20px;
     border: grey solid 1px;
@@ -90,6 +90,7 @@
 }
 
 .search-button{
+    border: 1.5px solid transparent;
     margin-right: 20px;
     white-space: nowrap;
     font-size: 100%;
